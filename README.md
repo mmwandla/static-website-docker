@@ -1,1 +1,1 @@
-Building a Docker image using Dockerfile for a static website.
+Building a Docker image using Dockerfile and nginx for a static website.
